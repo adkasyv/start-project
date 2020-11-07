@@ -1,0 +1,86 @@
+////////////////////////////////////////
+// Resetting styles
+////////////////////////////////////////
+body 
+    background-color #ffffff
+    min-height: 100vh
+    text-rendering optimizeSpeed
+    line-height 1.5
+    
+*,
+*:before,
+*:after 
+    box-sizing border-box
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd 
+    margin 0
+
+/* Remove standard styling for all ul and ol that have a class attribute*/
+ul[class],
+ol[class] 
+    list-style none
+
+ul[class],
+ol[class] 
+    padding 0
+
+/* Elements a, which do not have a class, are reset to default styles */
+a:not([class])
+    text-decoration-skip-ink auto
+
+/* Making it easier to work with images */
+img 
+    max-width 100%
+    display block
+
+/* Inheriting fonts for inputs and buttons */
+input,
+button,
+textarea,
+select 
+    font inherit
+
+
+
+////////////////////////////////////////
+// Optional settings
+////////////////////////////////////////
+
+
+// Text
+h1
+    // font-family 
+    margin-top 1em
+    font-size 5em
+h2
+    // font-family 
+    margin 0
+p
+    // font-family 
+    margin 0
+a   
+    color black
+    text-decoration none
+
+// Structure
+.section 
+    margin 10em 0
+.container 
+    width 100%
+    max-width 1170px
+    padding 0 15px
+    margin 0 auto
+    overflow hidden
