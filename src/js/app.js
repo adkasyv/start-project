@@ -38,4 +38,8 @@ $(function() {
 		}, 500);
     });
     
+    // Undo drag
+    $('img').on('dragstart', function(event) { 
+        event.preventDefault(); 
+    });
 });
