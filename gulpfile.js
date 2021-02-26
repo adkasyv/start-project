@@ -23,14 +23,14 @@ function html() {
 }
 
 function styl() {
-    return src('src/stylus/main.styl')
+    return src('src/stylus/general.styl')
         .pipe(sourcemaps.init())
         .pipe(stylus())
         .pipe(autoprefixer({
             browsers: ['last 2 versions']
         }))
         .pipe(csso())
-        .pipe(concat('style.css'))
+        .pipe(concat('general.css'))
         .pipe(sourcemaps.write('./'))
         .pipe(dest('dist/css'))
 }
