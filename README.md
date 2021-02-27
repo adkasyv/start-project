@@ -27,13 +27,9 @@
 
 ---
 
-#### Этапы работы:
+### Этапы работы:
 
-что и как было сделано
-
-**0**
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Создан таможенный калькульятор автомобиля с помощью плагина Wordpress
+#### **0** - Создан таможенный калькульятор автомобиля с помощью плагина Wordpress
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Калькульятор считает:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Стоимость растоможки  
@@ -41,24 +37,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пошлину  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;НДС
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
+<img src="http://via.placeholder.com/900x300" alt="alt">
 
-**1**
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Интегрирован инстаграмм для быстрого просмотра автомобилей на сайте
+#### **1** - Интегрирован инстаграмм для быстрого просмотра автомобилей на сайте
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Можно быстро просмотреть последние посты из инстаграмма, не переходя в него. Видны лайки, комментарии, теги.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
+<img src="http://via.placeholder.com/900x300" alt="alt">
 
-**2**
+#### **2** - Есть блок под отзывы клиентов
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Есть блок под отзывы клиентов
+<img src="http://via.placeholder.com/900x300" alt="alt">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
+#### **3** - Присутсвуют формы обратной связи, и ссылки на номера телефонов и соц.сети.
 
-**3**
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Присутсвуют формы обратной связи, и ссылки на номера телефонов и соц.сети.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
+<img src="http://via.placeholder.com/900x300" alt="alt">
