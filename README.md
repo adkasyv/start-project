@@ -37,20 +37,20 @@ AUTOLIFE UA - Автомобили из Европы/Кореи
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Пошлину  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; НДС
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Картинка тут
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
 
 1  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Интегрирован инстаграмм для быстрого просмотра автомобилей на сайте  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Можно быстро просмотреть последние посты из инстаграмма, не переходя в него. Видны лайки, комментарии, теги.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Картинка тут
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
 
 2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Есть блок под отзывы клиентов
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Картинка тут
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
 
 3  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Присутсвуют формы обратной связи, и ссылки на номера телефонов и соц.сети.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Картинка тут
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://via.placeholder.com/900x300" alt="alt">
