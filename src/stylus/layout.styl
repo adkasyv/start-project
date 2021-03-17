@@ -28,7 +28,8 @@ dl,
 dd 
     margin 0
 
-/* Remove standard styling for all ul and ol that have a class attribute*/
+/* Remove standard styling for all ul and ol that have a class attribute    */
+/* Удалить стандартный стиль для всех ul и ol, у которых есть атрибут class */
 ul[class],
 ol[class],
 li
@@ -38,16 +39,19 @@ ul[class],
 ol[class] 
     padding 0
 
-/* Elements a, which do not have a class, are reset to default styles */
+/* Elements a, which do not have a class, are reset to default styles    */
+/* Элементы a, у которых нет класса, сбрасываются до стилей по умолчанию */
 a:not([class])
     text-decoration-skip-ink auto
 
 /* Making it easier to work with images */
+/* Упрощение работы с изображениями     */
 img 
     max-width 100%
     display block
 
-/* Inheriting fonts for inputs and buttons */
+/* Inheriting fonts for inputs and buttons  */
+/* Наследование шрифтов для входов и кнопок */
 input,
 button,
 textarea,
@@ -58,33 +62,50 @@ select
 ////////////////////////////////////////
 // Variables
 ////////////////////////////////////////
-mainColor = 
-    color #ffffff //white
+color-main         = #ffffff
+color-lower        = #000000
+color-danger       = #d9534f
+ 
+text-color         = gray-darkest
+text-color--muted  = gray
+ 
+font-size          = 1em
+font-size--h1      = 2.5em
 
-secondaryColor =
-    color #000000 //black
+font-size--small   = 0.875em
+ 
+line-height        = 1.375em
+ 
+font-family        = 'Roboto', Arial, sans-serif
+ 
+screen-xs          = "only screen and (max-width: 320px)"
+screen-sm          = "only screen and (max-width: 480px)"
+screen-md          = "only screen and (max-width: 768px)"
+screen-lg          = "only screen and (max-width: 992px)"
+screen-xl          = "only screen and (min-width: 1200px)"
 
 
 ////////////////////////////////////////
-// Optional settings
-////////////////////////////////////////
-
 // Text
+////////////////////////////////////////
+h1,
+h2,
+h3,
+h4,
+    // font-family
+    color color-main
 h1
-    // font-family 
-    margin-top 1em
-    font-size 5em
-h2
-    // font-family 
-    margin 0
+    font-size font-size--h1
 p
-    // font-family 
-    margin 0
+    color color-main
+    font-size font-size--small
 a   
-    color black
+    color color-main
     text-decoration none
 
+////////////////////////////////////////
 // Structure
+////////////////////////////////////////
 .section 
     margin 10em 0
 .container 
